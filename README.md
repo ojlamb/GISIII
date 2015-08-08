@@ -3,6 +3,7 @@ Geoprocessing Python Scripts written in University of Colorado's GIS Programming
 
 ***To Run***
 - Esri ArcMap 10.0 with Spatial Analyst Extension
-- GDAL/OGR(Lab 5)
+- Arcpy, Numpy, Scipy
+- OSGEO - GDAL(Lab 6)
 - Python 2.7
 
